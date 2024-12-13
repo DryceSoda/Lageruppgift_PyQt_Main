@@ -3,7 +3,7 @@ import sys
 from PyQt5.QtWidgets import QDialog, QApplication, QWidget, QTableWidget, QTableWidgetItem, QVBoxLayout, QTabWidget, QLabel, QPushButton, QMessageBox, QLineEdit, QComboBox, QFormLayout
 from PyQt5.QtCore import Qt
 
-
+# för att installera PyQt5 - pip install PyQt5
     
 app = QApplication(sys.argv)
 
