@@ -1,0 +1,21 @@
+QWidget {
+    background-color: #fafafa;
+    font-family:'Lucida Sans';
+    font-size: 12px;
+}
+
+
+QTableWidget {
+    border: 1px solid #fafafa;
+    border-collapse: collapse;
+}
+
+QTableWidget::item {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 1rem;
+}
+
+QTableWidget::item:selected {
+    background-color: lightblue;
+}

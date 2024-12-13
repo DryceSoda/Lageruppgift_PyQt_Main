@@ -1,0 +1,21 @@
+id,name,desc,type,energy,classtype
+1,Accuracy,Shivs deal 4 more damage,Power,1,The Silent
+2,Blade Dance,Add 3 Shivs into your hand,Skill,1,The Silent
+3,Catalyst,"Double the enemyäs poison, exhaust",Skill,1,The Silent
+4,Corpse Explosion,"Apply 6 poison. When the enemy dies, deal damage equal to it's max HP to ALL enemies.",Skill,2,The Silent
+5,After Image,"Whenever you play a card, gain 1 Block",Power,1,The Silent
+6,Carnage,"Deal 20 damage, Exhaust",Attack,2,The Ironclad
+7,Bash,"Deal 8 damage, apply 2 Vulnerability",Attack,2,The Ironclad
+8,Limit Break,"Double your strength, Exhaust",Skill,1,The Ironclad
+9,Corruption,"Skills cost 0. Whenever you play a skill, Exhaust it",Power,1,The Ironclad
+10,Spot Weakness,"If the enemy intends to attack, gain 2 Strength",Skill,1,The Ironclad
+11,Glacier,"Gain 7 block, Channel 2 Frost.",Skill,2,The Defect
+12,Coolheaded,Channel 1 Frost. Draw 1 card,Skill,1,The Defect
+13,Echo Form,The first card you play at the start of your turn is played twice,Power,3,The Defect
+14,Biased Cognition,"Gain 4 Focus. At the start of your turn, lose 1 Focus",Power,1,The Defect
+15,Equilibrium,"Gain 13 Block, retain your hand this turn",Skill,2,The Defect
+16,Worship,Gain 5 Mantra,Skill,2,The Watcher
+17,Devotion,"At the start of your turn, Gain 2 Mantra",Power,1,The Watcher
+18,Blasphemy,"Enter Divinity, Die next turn",Skill,1,The Watcher
+19,Deva Form,"Ethereal. At the start of your turn, gain Energy and increase this gain by 1",Power,2,The Watcher
+20,Talk to the Hand,"Deal 5 damage. Whenever you attack this enemy, gain 2 Block",Attack,2,The Watcher
